@@ -1,0 +1,17 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "Test environment JS",
+  "main": "index.js",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.2",
+    "sequelize": "^5.21.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J. Polzin",
+  "license": "ISC"
+}

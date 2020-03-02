@@ -1,0 +1,14 @@
+{
+  "name": "lodashtut",
+  "version": "1.0.0",
+  "description": "LoDash Examples Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J. Polzin",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}

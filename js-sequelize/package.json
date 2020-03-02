@@ -1,0 +1,19 @@
+{
+  "name": "js-sequelize",
+  "version": "1.0.0",
+  "description": "JS Sequelize tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js",
+    "seed": "node seed.js"
+  },
+  "author": "J. Polzin",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.2",
+    "prettier": "^1.19.1",
+    "sequelize": "^5.21.3"
+  }
+}
