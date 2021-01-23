@@ -25,5 +25,5 @@ words.forEach( e => {
 // String padding
 console.log('** String Padding **');
 nums.forEach( e => {
-   console.log(_.padStart(e.toString(), 20, '-'));
+   console.log(_.padStart(e.toString(), 50, '-'));
 });

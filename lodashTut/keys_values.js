@@ -9,6 +9,6 @@ const values = _.values(p);
 console.log(values);
 
 // lodash iterate object properties
-_.forIn(p, (value, key) => {
+_.forIn(p, (key,value) => {
    console.log(`${key}: ${value}`);
 })
